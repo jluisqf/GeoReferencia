@@ -121,7 +121,16 @@ app.get('/alcaldias', function(req,res){
    res.json(alcaldias);
    });
 
-
+   app.get('/incidencias', function (req, res) {
+   
+      var file;
+      const fs = require('fs');
+      file='incidencias.json'
+      let rawdata = fs.readFileSync(file);
+      let incidencias = JSON.parse(rawdata)
+      res.json(incidencias);
+      
+   })
 
 app.listen(3000, () => {
 
