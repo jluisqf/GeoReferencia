@@ -10,19 +10,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 33396
+                  "total": 33396,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 10561
+                  "total": 10561,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 30055
+                  "total": 30055,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 17815
+                  "total": 17815,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -104,19 +160,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 37817
+                  "total": 37817,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 12929
+                  "total": 12929,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 43402
+                  "total": 36027,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 24060
+                  "total": 24060,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -198,19 +310,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 30147
+                  "total": 30147,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 9613
+                  "total": 9613,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 34710
+                  "total": 34710,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 17646
+                  "total": 17646,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -292,19 +460,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 33824
+                  "total": 33824,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 10790
+                  "total": 10790,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 42110
+                  "total": 42110,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 19898
+                  "total": 19898,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -386,19 +610,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 34444
+                  "total": 34444,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 11702
+                  "total": 11702,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 40814
+                  "total": 40814,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 22263
+                  "total": 22263,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -485,19 +765,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 37170
+                  "total": 37170,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 9197
+                  "total": 9197,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 63057
+                  "total": 63057,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 36335
+                  "total": 36335,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -579,19 +915,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 23973
+                  "total": 23973,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 6726
+                  "total": 6726,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 43402
+                  "total": 43402,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 18971
+                  "total": 18971,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -673,19 +1065,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 5432
+                  "total": 5432,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 579
+                  "total": 579,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 11347
+                  "total": 11347,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 3246
+                  "total": 3246,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -767,19 +1215,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 5033
+                  "total": 5033,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 485
+                  "total": 485,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 11274
+                  "total": 11274,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 3076
+                  "total": 3076,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",
@@ -861,19 +1365,75 @@
               "tipo": [
                 {
                   "tipo": "accident",
-                  "total": 3843
+                  "total": 3843,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "chit_chat",
-                  "total": 515
+                  "total": 515,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "police",
-                  "total": 7131
+                  "total": 7131,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "road_closed",
-                  "total": 4338
+                  "total": 4338,
+                  "subtipo": [
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    },
+                    {
+                      "subtipo": "n/a",
+                      "total": 0
+                    }
+                  ]
                 },
                 {
                   "tipo": "hazard",

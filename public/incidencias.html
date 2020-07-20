@@ -43,8 +43,8 @@
 
 
 <!-- Cluster -->
-	<link rel="stylesheet" href="lib/MarkerCluster.css">
-	<script src="lib/leaflet.markercluster.js"></script>
+<link rel="stylesheet" href="lib/MarkerCluster.css">
+<script src="lib/leaflet.markercluster.js"></script>
 
 <!-- fin Data -->
 <script
@@ -58,24 +58,25 @@
 
 	<div class="d-flex" id="wrapper">
 
-		
-			<div class="bg-light border-right " id="sidebar-wrapper">
-					<div class="sidebar-heading">Incidencias de la CDMX</div>
-					<div class="list-group list-group-flush">
-							<!-- <a href=javascript:incidenciasDelAnio(); class="list-group-item list-group-item-action bg-light"> -->
-						<a href="incidencias.html" class="list-group-item list-group-item-action bg-light">
-							<i class="fas fa-map-marked-alt"></i> Incidencias
-						</a> 
-						<a href="#" class="list-group-item list-group-item-action bg-light">
-								<i class="fas fa-map-marker-alt"></i> Division de Alcaldias</a>
-						<a href="#" class="list-group-item list-group-item-action bg-light">
-								<i class="fas fa-map-marker-alt"></i> Incidencias 2019</a>    
-						<a href="graficas.html" class="list-group-item list-group-item-action bg-light">
-								<i class="fas fa-map-marker-alt"></i> Graficas</a>
-						<a href="#" class="list-group-item list-group-item-action bg-light">
-								<i class="	fas fa-car-crash"></i> Estatus</a>
-					</div>
-				</div>
+
+		<div class="bg-light border-right " id="sidebar-wrapper">
+			<div class="sidebar-heading">Incidencias de la CDMX</div>
+			<div class="list-group list-group-flush">
+				<!-- <a href=javascript:incidenciasDelAnio(); class="list-group-item list-group-item-action bg-light"> -->
+				<a href="incidencias.html"
+					class="list-group-item list-group-item-action bg-light"> <i
+					class="fas fa-map-marked-alt"></i> Incidencias
+				</a>
+				<!-- <a href="#" class="list-group-item list-group-item-action bg-light">
+                        <i class="fas fa-map-marker-alt"></i> Division de Alcaldias</a>
+				<a href="#" class="list-group-item list-group-item-action bg-light">
+                        <i class="fas fa-map-marker-alt"></i> Incidencias 2019</a>    
+				<a href="graficas.html" class="list-group-item list-group-item-action bg-light">
+                        <i class="fas fa-map-marker-alt"></i> Graficas</a>
+				<a href="#" class="list-group-item list-group-item-action bg-light">
+                        <i class="	fas fa-car-crash"></i> Estatus</a> -->
+			</div>
+		</div>
 
 		<!-- Page Content -->
 		<div id="page-content-wrapper">
@@ -90,56 +91,67 @@
 					aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
-                
+
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+						<li class="nav-item active"><a class="nav-link" href="/">Principal
+								<span class="sr-only">(current)</span>
+						</a></li>
+						<li class="nav-item"><a class="nav-link" href="#">Contacto</a>
+						</li>
+					</ul>
+				</div>
+
+				<!-- <div style="position:absolute;right: 0;">
+                    <label>Seleccionar fecha</label>
+                    <input type="text" name="incidencias" value="01/01/2019"/>
+                </div> -->
+
 			</nav>
-		   
-			<div class="container-fluid">
-			<h3>Incidencias de la ciudad de mexico</h3>
-			
-			
-			<div class="row">
-				<div class="col-sm-4">
-					<select class="d-inline form-control "name="tipoIncidencia" id="tipoIncidencia">
+
+			<div id='hola' class="container-fluid">
+				<h3>Incidencias de la ciudad de mexico</h3>
+
+
+				<div class="row">
+					<div class="col-sm-4">
+						<select class="d-inline form-control " name="tipoIncidencia"
+							id="tipoIncidencia">
 							<option value="incidencia" disabled selected>Incidencia</option>
-							  <option value="accident">ACCIDENT</option>
-							  <option value="police">POLICE</option>
-							  <option value="road_close">ROAD_CLOSED</option>
-							  <option value="hazard">HAZARD</option>
-							  <option value="jam">JAM</option>
-							  <option value="chit_chat">CHIT_CHAT</option>
-							  
-					</select>
+							<option value="accident">ACCIDENT</option>
+							<option value="police">POLICE</option>
+							<option value="road_close">ROAD_CLOSED</option>
+							<option value="hazard">HAZARD</option>
+							<option value="jam">JAM</option>
+							<option value="chit_chat">CHIT_CHAT</option>
 
-				</div>
-				
-				<div class="col-sm-4">
-					<select class="d-inline form-control " name="fechaIncidencia" id="fechaIncidencia">
+						</select>
+
+					</div>
+
+					<div class="col-sm-4">
+						<select class="d-inline form-control " name="fechaIncidencia"
+							id="fechaIncidencia">
 							<option value="anio" disabled selected>Año</option>
-							  <option value="2019">2019</option>
-							  <option value="2020">2020</option>
-					</select>
-					
-				</div>
-					
-				<div class="col-sm-3">
-					<button  mtype="submit" class="btn btn-primary" id= "boton">Buscar</button>
-				</div>
-				
-				
-			</div>
-			<br>
-	
+							<option value="2019">2019</option>
+							<option value="2020">2020</option>
+						</select>
 
-			</div>
-			<canvas id="myChart"></canvas>
+					</div>
 
+					<div class="col-sm-3">
+						<button mtype="submit" class="btn btn-primary" id="boton">Buscar</button>
+					</div>
+				</div>
 			</div>
-		
+
 		</div>
-        <!-- finwrapper -->
-      
-    </div>
-    <script type="text/javascript" src="js/doc2.js"></script>
+
+	</div>
+	<!-- finwrapper -->
+
+	</div>
+	<script type="text/javascript" src="js/graficas.js"></script>
 	<script>
 
 	
